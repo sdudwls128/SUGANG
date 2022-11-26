@@ -1,0 +1,30 @@
+
+.left-menu {
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+
+header {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+main {
+    background-color: darkgray;
+    display: flex;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+}
